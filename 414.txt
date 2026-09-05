@@ -1,1 +1,3 @@
 asd
+pass = 123
+log = abc
